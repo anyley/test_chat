@@ -1,0 +1,6 @@
+node_modules
+semantic.json
+public
+*~
+.idea
+log
